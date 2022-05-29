@@ -1,0 +1,22 @@
+{
+  "/sso": {
+    "target": "http://localhost:3000/sso",
+    "secure": false,
+    "logLevel": "debug"
+  },
+  "/projectName": {
+    "target": "http://localhost:3000/proxy",
+    "secure": false,
+    "logLevel": "debug"
+  },
+  "/auth": {
+    "target": "http://localhost:3000/proxy",
+    "secure": false,
+    "logLevel": "debug"
+  },
+  "/paymentService": {
+    "target": "http://localhost:3000/proxy",
+    "secure": false,
+    "logLevel": "debug"
+  }
+}
