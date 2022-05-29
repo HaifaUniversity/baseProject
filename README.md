@@ -1,6 +1,12 @@
 
 # baseProject
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.0.1.
+## ג
+
+## Creating a new project in Angular
+This is a basic project that includes the required libraries and packages.
+After downloading the project. Required to run the NPM INSTALL command.
+The Angular version should be updated to the latest version accordingly. See here- https://update.angular.io/
 
 ## Development server
 
